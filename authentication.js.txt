@@ -1,3 +1,4 @@
-function(username,password){
+function(email,password) 
+{
 authenticate user
 }
